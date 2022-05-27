@@ -5,4 +5,4 @@
 </div>
 
 - 🔭 I’m currently working on ft_containers
-- 🌱 I’m currently learning c/c++, phyton, shell
+- 🌱 I’m currently learning c/c++, python, shell
